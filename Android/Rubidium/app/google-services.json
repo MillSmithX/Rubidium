@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "881165594008",
+    "firebase_url": "https://testrubidium.firebaseio.com",
+    "project_id": "testrubidium",
+    "storage_bucket": "testrubidium.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881165594008:android:1f1b6d0f7f1b71d3",
+        "android_client_info": {
+          "package_name": "com.planktonleap.rubidium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881165594008-0npi6fmaqs2i459nk0h6cdh1ufcrkvge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASVE3JKZcHlJU5p9G--HYgQKo1XDrEQDI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881165594008-0npi6fmaqs2i459nk0h6cdh1ufcrkvge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
