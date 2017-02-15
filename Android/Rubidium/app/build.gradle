@@ -21,16 +21,18 @@ android {
 
 dependencies {
     //compile fileTree(include: ['*.jar'], dir: 'libs')
+
+    //compile project(':YouTubeAndroidPlayerApi')
+    compile files('libs/YouTubeAndroidPlayerApi.jar')
+    // compile 'com.google.apis:google-api-services-youtube:v3-rev157-1.21.0'
     compile 'com.android.support:recyclerview-v7:25.1.1'
     compile 'com.android.support:cardview-v7:25.1.1'
     compile 'com.android.support:appcompat-v7:25.1.1'
     compile 'com.android.support:design:25.1.1'
     compile 'com.android.support:support-v4:25.1.1'
-
-    //compile project(':YouTubeAndroidPlayerApi')
-    compile files('libs/YouTubeAndroidPlayerApi.jar')
-   // compile 'com.google.apis:google-api-services-youtube:v3-rev157-1.21.0'
+    compile 'com.google.firebase:firebase-ads:10.0.1'
 }
+
 
 
 
