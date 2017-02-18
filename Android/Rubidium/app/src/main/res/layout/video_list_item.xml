@@ -21,6 +21,6 @@
         android:layout_gravity="center_vertical"
         android:layout_marginLeft="5dp"
         android:textAppearance="?android:attr/textAppearanceSmall"
-        android:textColor="#fff"/>
+        android:textColor="#000"/>
 
 </LinearLayout>
